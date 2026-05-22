@@ -123,13 +123,14 @@ The dataset contains pizza sales transactions with **12 original features** and 
 
 ## 📋 Tableau Dashboard
 
-### Dashboard 1 — Overview
+### Dashboard 1 — KPI Overview & Sales Trends (Monthly, Quarterly, Daily, Hourly)
 ![Dashboard 1](images/dashboard_1.png)
 
-### Dashboard 2 — Risk Analysis
+### Dashboard 2 — Pizza Performance (Top 5 & Bottom 5 by Revenue, Quantity & Orders)
+
 ![Dashboard 2](images/dashboard_2.png)
 
-### Dashboard 3 — Borrower Profile
+### Dashboard 3 — Category, Size & Customer Behavior Analysis
 ![Dashboard 3](images/dashboard_3.png)
 
 🔗 **View Live Dashboard:** [Click Here to View on Tableau Public](https://public.tableau.com/app/profile/mehedi.hasan2176/viz/PIZZASALESDASHBOARD2015/Home)
